@@ -1,1 +1,5 @@
-# TicTacToe-CollectionView
+# TicTacToe-CollectionView![ass8_1](https://user-images.githubusercontent.com/89539041/145395398-823e7ec9-5f7b-4928-9770-41df8310ac98.png)
+![ass8_2](https://user-images.githubusercontent.com/89539041/145395402-44aca3e4-94f5-4d86-97e1-28af0022f05f.png)
+![ass8_3](https://user-images.githubusercontent.com/89539041/145395409-55475e99-2aab-4847-a84b-dcc9519fc7eb.png)
+![ass8_4](https://user-images.githubusercontent.com/89539041/145395414-ff0ea294-aff1-4a4a-9cc5-acc651175f58.png)
+![ass8_5](https://user-images.githubusercontent.com/89539041/145395420-9e28a4ff-83f1-4e00-a790-09884a09045f.png)
